@@ -4,7 +4,7 @@ import requests
 app = Flask(__name__)
 
 # ▼▼ YOUR OPENROUTER API KEY ▼▼
-OPENROUTER_KEY = "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"
+OPENROUTER_KEY = "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"
 
 # ▼▼ CHOOSE ANY OPENROUTER MODEL ▼▼
 MODEL_NAME = "arcee-ai/trinity-mini:free"    # or "deepseek/deepseek-chat", etc.
